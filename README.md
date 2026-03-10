@@ -1,4 +1,7 @@
 # autoresearch-macos
+## AutoResearch Guide
+📄 Read the full guide  
+[Download PDF](https://raw.githubusercontent.com/samithr1981/autoresearch-karpathy/master/autoresearch_guide.pdf)
 
 ![teaser](progress.png)
 
